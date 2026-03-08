@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
+    "reset-css": "^5.0.2",
     "preview": "vite preview"
   },
   "dependencies": {
